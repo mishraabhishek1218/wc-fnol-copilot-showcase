@@ -1,5 +1,7 @@
 # WC FNOL Copilot (Showcase)
 
+> Part of [`insurance-ai-lab`](https://github.com/mishraabhishek1218/insurance-ai-lab) — Claims domain, cross-LOB extension (P1).
+
 **This is a trimmed, public showcase of a proprietary product.** Full source is private. This repo contains architecture notes, a demo link (if available), and illustrative code snippets only — not the working application. See [LICENSE.md](./LICENSE.md).
 
 **Smart Injury Intake & Triage for Workers' Compensation** — a mobile-first digital copilot that turns fragmented First Notice of Loss (FNOL) intake into one auditable incident record.
